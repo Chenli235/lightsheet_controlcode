@@ -1,0 +1,9 @@
+﻿state,X,Y,Z,T
+Position,0,0,0,
+,Galvo_X,Galvo_Y,Galvo_Z,
+Galvo_path1,0,0,0,
+Galvo_path2,0,0,0,
+,,,,
+Excitation lens 1(mm),0,,,
+Excitation lens 2(mm),0,,,
+detection lens(mm),0,,,
